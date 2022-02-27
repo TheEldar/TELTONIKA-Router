@@ -62,7 +62,7 @@ Version 1.0:
 Die Library ist für die nicht kommerzielle Nutzung kostenlos. Präsente als Unterstützung für den Autor werden hier akzeptiert:  
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MBVXFVK8WED4C" target="_blank"><img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif" border="0" /></a>
 
-![Spende](img\QR-Code.png) 
+![Spende](img/QR-Code.png) 
 
 
 ## 6. Lizenz
