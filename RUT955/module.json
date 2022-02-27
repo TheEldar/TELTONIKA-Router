@@ -1,0 +1,12 @@
+{
+    "id": "{7EB9438E-EDEA-5E15-BF80-04FFC1CAD5E1}",
+    "name": "RUT955",
+    "aliases": ["RUT955"],
+    "type": 3,
+    "vendor": "TELTONIKA Networks",
+    "parentRequirements": ["{E310B701-4AE7-458E-B618-EC13A1A6F6A8}"],
+    "childRequirements": [],
+    "implemented": ["{77B31ABB-18FA-4B91-BB63-E5B2AB5588F4}"],
+    "prefix": "RUT955",
+    "url": "https://github.com/TheEldar"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "{1B0E0029-7026-F7E3-B935-CDAE2306F01A}",
+    "author": "Steffen Langheld",
+    "name": "TELTONIKA-Router",
+    "url": "https://github.com/TheEldar/TELTONIKA-Router",
+    "compatibility": {
+        "version": "5.1"
+    },
+    "version": "0.01",
+    "build": 1,
+    "date": 1642852017    
+}
