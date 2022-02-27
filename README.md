@@ -31,7 +31,7 @@ Folgende Module beinhaltet das TELTONIKA Repository:
 ## 2. Voraussetzungen
 
  - IPS 5.1 oder höher  
- - TELTONIKA Networks Geräte mit ModBus Support
+ - TELTONIKA Networks Geräte mit ModBus-Interface
 
 ## 3. Software-Installation
 
@@ -58,9 +58,11 @@ Version 1.0:
  - Erstes Release für RUT955
 
 ### 3. Spenden  
-  
-  Die Library ist für die nicht kommerzielle Nutzung kostenlos. Präsente als Unterstützung für den Autor werden hier akzeptiert:  
+
+Die Library ist für die nicht kommerzielle Nutzung kostenlos. Präsente als Unterstützung für den Autor werden hier akzeptiert:  
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MBVXFVK8WED4C" target="_blank"><img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif" border="0" /></a>
+
+![Spende](img\QR-Code.png) 
 
 
 ## 6. Lizenz

@@ -11,7 +11,7 @@ declare(strict_types=1);
  * @author        Steffen Langheld
  * @copyright     2021 Steffen Langheld
  * @license       https://creativecommons.org/licenses/by-nc-sa/4.0/ CC BY-NC-SA 4.0
- * @version       0.01
+ * @version       1.0
  *
  */
 require_once __DIR__ . '/../libs/TELTONIKAModule.php';  // diverse Klassen
