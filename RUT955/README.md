@@ -47,24 +47,24 @@ Das Modul ist im Dialog 'Instanz hinzufügen' unter dem Hersteller 'TELTONIKA Ne
 
 Es wird automatisch eine 'ModBus Gateway' als Splitter-Instanz, sowie ein 'Client Socket' als dessen I/O-Instanz erzeugt.  Bei der I/O-Instanz die Verbindungsdaten des RUT955 angeben.
 
-![Modbus RUT955](../img/modbus_config.JPG) 
+![Modbus RUT955](../imgs/modbus_config.JPG) 
 
 
 In dem sich öffnenden Konfigurationsformular muss der Abfrage-Intervall eingestellt werden. Der Intervall sollte in der Produktion nicht zu gering gewählt werden.
 In der Praxis haben sich bei mir 2 bis 5 Minuten bewährt. Wer das GPS Signal häufiger prüfen möchte kann sich meinen Fork des [NMEA-GPS Modul](https://github.com/TheEldar/NMEA-GPS) anschauen. Dieses Modul untersützt neben USB Geräten auch Webhooks.
 
-![Modbus Instanz](../img/modbus_instanz.JPG) 
+![Modbus Instanz](../imgs/modbus_instanz.JPG) 
 
 
 Über den Button 'Gateway konfigurieren' oder das Zahnrad hinter der Übergeordneten Instanz wird das Konfigurationsformular des 'ModBus Gateway' geöffnet.  
 Hier muss jetzt der Modus passend zur Hardwareanbindung (TCP /RTU) sowie die Geräte-ID des Zählers eingestellt und übernommen werden.  
 
 
-![Modbus Splitter](../img/modbus_gateway.JPG) 
+![Modbus Splitter](../imgs/modbus_gateway.JPG) 
 
 Anschließend sollte eine Liste mit allen untersützten Parametern angezeugt werden.
 
-![Modbus Liste](../img/modbus_liste.JPG)
+![Modbus Liste](../imgs/modbus_liste.JPG)
 
 ### 1. Bekannte BUGs
 
@@ -171,7 +171,7 @@ Bei Erfolg wird `true` und im Fehlerfall wird `false` zurückgegeben und eine Wa
 Die Library ist für die nicht kommerzielle Nutzung kostenlos. Präsente als Unterstützung für den Autor werden hier akzeptiert:  
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MBVXFVK8WED4C" target="_blank"><img src="https://www.paypalobjects.com/de_DE/DE/i/btn/btn_donate_LG.gif" border="0" /></a>
 
-![Spende](../img/QR-Code.png) 
+![Spende](../imgs/QR-Code.png) 
 
 
 ## 8. Lizenz
