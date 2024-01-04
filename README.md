@@ -53,7 +53,8 @@ Ist direkt in der Dokumentation der jeweiligen Module beschrieben.
 | RUT955 | Device | RUT955 | {7EB9438E-EDEA-5E15-BF80-04FFC1CAD5E1} |
 
 ### 2. Changelog
-
+Version 1.1:  
+ - Update phpseclib/phpseclib von 3.0.13 zu 3.0.34 in /libs/phpseclib
 Version 1.0:  
  - Erstes Release für RUT955
 
